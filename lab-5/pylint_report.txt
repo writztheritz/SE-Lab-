@@ -1,0 +1,7 @@
+************* Module parcel_tracker
+parcel_tracker.py:13:0: W0102: Dangerous default value [] as argument (dangerous-default-value)
+parcel_tracker.py:43:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.63/10 (previous run: 4.91/10, +4.72)
+
